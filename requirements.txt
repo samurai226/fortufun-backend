@@ -11,3 +11,4 @@ whitenoise==6.6.0
 gunicorn==21.2.0
 redis==5.0.1
 django-filter==23.5
+psycopg2-binary==2.9.9
